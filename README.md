@@ -2,11 +2,15 @@
 
 ## Membros do grupo:
 
-## Descrição do projeto
+## Descrição do projeto:
 
 Construção de uma fonte de tensão ajustável entre 3V - 12V, com capacidade de 100 mA.
 
 ## Tabela dos componentes selecionados:
+
+|  Nome  |  Qtd.  | Valor |
+| :----: | :----: | :---: |
+|  Nome  |  Qtd.  | Valor |
 
 ## Funcionamento dos componentes (teoria):
 
