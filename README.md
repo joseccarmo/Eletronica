@@ -10,7 +10,7 @@ Construção de uma fonte de tensão ajustável entre 3V - 12V, com capacidade d
 
 |         Nome         |  Qtd.  | Valor |
 |        :----:        | :----: | :---: |
-|  Transformador  |  Qtd.  | Valor |
+|  Transformador  |  x1  | 24,90 |
 
 ## Funcionamento dos componentes (teoria):
 
