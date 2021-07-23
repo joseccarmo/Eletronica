@@ -1,7 +1,7 @@
 # Projeto - Eletrônica - USP ICMC
 
 ## Membros do grupo:
-- José Pedro C. do Carmo
+- José Pedro Cioni do Carmo
 - Gabriel Barbosa de Amorim Perão
 - Samuel de Assunção Ferreira
 - Vinicius Kazuo Fujikawa Noguti
